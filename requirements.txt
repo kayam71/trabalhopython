@@ -1,0 +1,4 @@
+yfinance
+pandas
+plotly
+flet ; ou use pyqt5 ou tkinter conforme o framework escolhido
